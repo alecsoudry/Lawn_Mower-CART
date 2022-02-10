@@ -1,1 +1,1 @@
-# Lawn_Mower-CART
+This program uses a dataset of bank information and a classification tree algorithm to not only create but decide the most optimally pruned decision tree for determing variables considered when banks are giving personal loans.
